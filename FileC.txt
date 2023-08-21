@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is fileC
+=======
+This is FileC
+>>>>>>> FeatureA
